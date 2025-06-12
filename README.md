@@ -1,6 +1,6 @@
 # debajitKumarDey
 <h1 align="center">Hi 👋, I'm Debajit Kumar Dey</h1>
-<h3 align="center">I'm a MERN Stack Developer</h3>
+<h3 align="center"></h3>
 
 <!-- First Image -->
 <img alt="coding" align="right" width="400" 
