@@ -8,7 +8,7 @@ src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio]()
-- 📫 How to reach me: *debajit.dey90@gmail.com*
+- 📫 How to reach me: *debajitkumardey@gmail.com*
 - 📄 Know about my experiences:[Resume]()
 
 <h3 align="left">Connect with me:</h3>
